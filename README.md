@@ -27,7 +27,7 @@ python3 project.py
 
 The script acts on a file called "matches.txt" that contains soccer matches. This script allows you to add matches to the file, see how many times a team has played local or visitant, remove matches, list the names of the teams that have participated in any match, and list the ranking of the teams according to a specific amount of points (based on the number of games won or lost). The script reads the "partidos.txt" and/or writes on it (depending of the selected option in the menu) according to the data structure inside of it (CSV).
 
-El script actúa sobre un fichero llamado "partidos.txt" que contiene partidos de fútbol. Este script parmite añadir partidos al fichero, ver cuántas veces ha jugado un equipo como local o como visitante, eliminar partidos, listar los nombres de los equipos que han participado, y listar la clasificación de los equipos según una cantidad específica de puntos (según la cantidad de partidos ganados o perdidos). El script lee el fichero "partidos.txt" y/o escribe sobre este (dependiendo de la opción seleccionada en el menú) respetando siempre la estructura del fichero (CSV).
+El script actúa sobre un fichero llamado "partidos.txt" que contiene partidos de fútbol. Este script permite añadir partidos al fichero, ver cuántas veces ha jugado un equipo como local o como visitante, eliminar partidos, listar los nombres de los equipos que han participado, y listar la clasificación de los equipos según una cantidad específica de puntos (según la cantidad de partidos ganados o perdidos). El script lee el fichero "partidos.txt" y/o escribe sobre este (dependiendo de la opción seleccionada en el menú) respetando siempre la estructura del fichero (CSV).
 
 ## Preview / Demostración
 
