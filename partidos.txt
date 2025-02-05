@@ -1,0 +1,5 @@
+'001', 'Real Madrid', 'Barcelona', '2', '1', '2025-01-15', '10'
+'002', 'Atlético de Madrid', 'Sevilla FC', '1', '1', '2025-01-16', '11'
+'003', 'Valencia CF', 'Real Sociedad', '0', '3', '2025-01-17', '12'
+'004', 'Athletic Club', 'Getafe CF', '2', '0', '2025-01-18', '13'
+'010', 'Lmao FC', 'XD FC', '10', '5', '23-05-2024', '20'
