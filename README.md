@@ -31,4 +31,4 @@ El script actúa sobre un fichero llamado "partidos.txt" que contiene partidos d
 
 ## Preview / Demostración
 
-[Demonstration](demonstration.png)
+![Demonstration](demonstration.png)
